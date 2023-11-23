@@ -2,7 +2,7 @@
 
 #Day-1 ```How to Make Captcha Generator using HTML, CSS & Javascript ✅```
 
-#Day-2 ```Baking```
+#Day-2 ```How to Make New Year Count Down page using HTML, CSS and Javascript ✅```
 
 #Day-3 ```Baking```
 
