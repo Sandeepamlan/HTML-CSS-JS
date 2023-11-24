@@ -4,7 +4,7 @@
 
 #Day-2 ```How to Make New Year Count Down page using HTML, CSS and Javascript ✅```
 
-#Day-3 ```Baking```
+#Day-3 ```How to Make Word Counter using using HTML, CSS and Javascript ✅```
 
 #Day-4 ```Baking```
 
