@@ -6,7 +6,7 @@
 
 #Day-3 ```How to Make Word Counter using using HTML, CSS and Javascript ✅```
 
-#Day-4 ```Baking```
+#Day-4 ```How to Make QR Generator using using HTML, CSS and Javascript ✅```
 
 #Day-5 ```Baking```
 
