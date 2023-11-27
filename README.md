@@ -4,11 +4,11 @@
 
 #Day-2 ```How to Make New Year Count Down page using HTML, CSS and Javascript ✅```
 
-#Day-3 ```How to Make Word Counter using using HTML, CSS and Javascript ✅```
+#Day-3 ```How to Make Word Counter using HTML, CSS and Javascript ✅```
 
-#Day-4 ```How to Make QR Generator using using HTML, CSS and Javascript ✅```
+#Day-4 ```How to Make QR Generator using HTML, CSS and Javascript ✅```
 
-#Day-5 ```Baking```
+#Day-5 ```How to Make Dark Theme using HTML, CSS and Javascript ✅```
 
 #Day-6 ```Baking```
 
