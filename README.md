@@ -10,7 +10,7 @@
 
 #Day-5 ```How to Make Dark Theme using HTML, CSS and Javascript ✅```
 
-#Day-6 ```Baking```
+#Day-6 ```How to Make To-do-List using HTML, CSS and Javascript ✅```
 
 #Day-7 ```Baking```
 
