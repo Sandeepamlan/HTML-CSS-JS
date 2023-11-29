@@ -12,7 +12,7 @@
 
 #Day-6 ```How to Make To-do-List using HTML, CSS and Javascript ✅```
 
-#Day-7 ```Baking```
+#Day-7 ```How to Make Analog Clock using HTML, CSS and Javascript ✅```
 
 #Day-8 ```Baking```
 
