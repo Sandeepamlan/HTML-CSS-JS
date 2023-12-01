@@ -14,7 +14,7 @@
 
 #Day-7 ```How to Make Analog Clock using HTML, CSS and Javascript ✅```
 
-#Day-8 ```Baking```
+#Day-8 ```How to Make Random Quotes Generator using HTML, CSS and Javascript ✅```
 
 #Day-9 ```Baking```
 
