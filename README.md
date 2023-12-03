@@ -16,7 +16,7 @@
 
 #Day-8 ```How to Make Random Quotes Generator using HTML, CSS and Javascript ✅```
 
-#Day-9 ```Baking```
+#Day-9 ```How to Make Quiz App With Timer using HTML, CSS and Javascript ✅```
 
 #Day-10 ```Baking```
 
