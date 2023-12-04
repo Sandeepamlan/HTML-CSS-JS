@@ -18,5 +18,5 @@
 
 #Day-9 ```How to Make Quiz App With Timer using HTML, CSS and Javascript ✅```
 
-#Day-10 ```Baking```
+#Day-10 ```How to ```
 
