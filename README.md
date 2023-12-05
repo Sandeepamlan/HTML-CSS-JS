@@ -20,3 +20,15 @@
   
 #Day-10 ```How to Make Date Time Widget using HTML, CSS and Javascript ✅```
 
+#Day-11 ```How to Make Strip Scrolling using HTML, CSS and Javascript ✅```
+
+#Day-12 ```Upcoming```
+
+#Day-13 ```Upcoming```
+
+#Day-14 ```Upcoming```
+
+#Day-15 ```Upcoming```
+
+
+
