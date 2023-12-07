@@ -22,7 +22,7 @@
 
 #Day-11 ```How to Make Strip Scrolling using HTML, CSS and Javascript ✅```
 
-#Day-12 ```Upcoming```
+#Day-12 ```How to Make Currency Exchange using HTML, CSS and Javascript ✅```
 
 #Day-13 ```Upcoming```
 
