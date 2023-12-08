@@ -24,7 +24,7 @@
 
 #Day-12 ```How to Make Currency Exchange using HTML, CSS and Javascript ✅```
 
-#Day-13 ```Upcoming```
+#Day-13 ```How to Make Stopwatch using HTML, CSS and Javascript ✅```
 
 #Day-14 ```Upcoming```
 
