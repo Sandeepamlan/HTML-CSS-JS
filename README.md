@@ -26,7 +26,7 @@
 
 #Day-13 ```How to Make Stopwatch using HTML, CSS and Javascript ✅```
 
-#Day-14 ```Upcoming```
+#Day-14 ```How to Make Progress Bar Notification using HTML, CSS and Javascript ✅```
 
 #Day-15 ```Upcoming```
 
