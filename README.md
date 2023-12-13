@@ -32,7 +32,7 @@
 
 #Day-16 ```How to Make Card Flip Match Game using HTML, CSS and Javascript ✅```
 
-#Day-17 ```Upcoming```
+#Day-17 ```How to Make Card Pagination  using HTML, CSS and Javascript ✅```
 
 #Day-18 ```Upcoming```
 
