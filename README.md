@@ -34,7 +34,7 @@
 
 #Day-17 ```How to Make Card Pagination  using HTML, CSS and Javascript ✅```
 
-#Day-18 ```Upcoming```
+#Day-18 ```How to Make Round Digital Clock using HTML, CSS and Javascript ✅```
 
 #Day-19 ```Upcoming```
 
