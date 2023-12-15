@@ -36,7 +36,7 @@
 
 #Day-18 ```How to Make Round Digital Clock using HTML, CSS and Javascript ✅```
 
-#Day-19 ```Upcoming```
+#Day-19 ```How to Make Bar Loader using HTML, CSS and Javascript ✅```
 
 #Day-20 ```Upcoming```
 
