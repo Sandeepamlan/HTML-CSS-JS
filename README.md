@@ -38,6 +38,14 @@
 
 #Day-19 ```How to Make Bar Loader using HTML, CSS and Javascript ✅```
 
+#Day-20 ```How to Make Drag & Drop To-Do List using HTML, CSS and Javascript ✅```
+
+#Day-21 ```Upcoming```
+
+#Day-20 ```Upcoming```
+
+#Day-20 ```Upcoming```
+
 #Day-20 ```Upcoming```
 
 
