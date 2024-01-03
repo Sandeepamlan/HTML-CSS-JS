@@ -42,11 +42,11 @@
 
 #Day-21 ```How to Make Coin Flip Game using HTML, CSS and Javascript ✅```
 
-#Day-20 ```How to Make Toggle Tabs using HTML, CSS and Javascript ✅```
+#Day-22 ```How to Make Toggle Tabs using HTML, CSS and Javascript ✅```
 
-#Day-20 ```Upcoming```
+#Day-23 ```How to Make C-R-U-D Operations using HTML, CSS and Javascript ✅```
 
-#Day-20 ```Upcoming```
+#Day-24 ```Upcoming```
 
 
 
